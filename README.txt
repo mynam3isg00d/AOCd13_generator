@@ -4,5 +4,5 @@ NOTES:
 2 I use a custom letter alphabet made with my own ascii 
 3 It's possibile to input as many characters as one chooses
 4 Because of notes 2 and 3 it's possible that creases are not where they're supposed to be following
-  the aoc input standard. Make your code more general :^) (mine works if you can't be bothered)
-5 cool
+  the aoc input standard. Make your code more general :^)
+5 Don't send your friends anything dirty, I'm counting on you
